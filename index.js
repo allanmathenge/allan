@@ -10,4 +10,3 @@ root.render(
   </React.StrictMode>
 );
 
-<h1>hello there</h1>
